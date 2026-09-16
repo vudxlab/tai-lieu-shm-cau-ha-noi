@@ -1,0 +1,21 @@
+{
+  "id": "H4",
+  "edition/year": "ISO/IEC 27001:2022 plus Amd 1:2024; ISO/IEC 27002:2022",
+  "official": [
+    "https://www.iso.org/standard/27001",
+    "https://www.iso.org/standard/75652.html",
+    "https://www.iso.org/obp/ui/#iso:std:iso-iec:27002:en"
+  ],
+  "preview/library URLs": [
+    "https://www.nist.gov/cyberframework",
+    "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+    "https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/a-guide-to-the-updated-iso-iec-27002-2022-standard-part-2"
+  ],
+  "files": [
+    "files/PREVIEW/H4/NIST_CSF_2.0.pdf"
+  ],
+  "scope": "27001 specifies requirements for an information security management system and is certifiable; its Annex A contains the control reference set. 27002 provides detailed implementation guidance for information-security controls and is not itself certifiable. The 2022 control set is organized into organizational, people, physical and technological themes.",
+  "overlap": "NIST CSF 2.0 is a lawful open framework for Govern, Identify, Protect, Detect, Respond and Recover outcomes and is excellent for architecture threat/control coverage. It is not a clause-equivalent replacement for ISO/IEC 27001 certification requirements or the detailed implementation guidance of 27002.",
+  "recommendation": "PURCHASE EARLY: ISO/IEC 27002:2022 first for SHM architecture and procurement control design. Purchase ISO/IEC 27001:2022 together with Amd 1:2024 when establishing the owner/operator ISMS boundary, governance or certification/conformity requirements. If only one can be bought during architecture design, choose 27002; if an ISMS/certification scope is already mandated, buy both as a matched pair.",
+  "rationale": "The immediate architecture need is actionable guidance for sensor/edge/network/cloud access control, logging/monitoring, supplier security, physical protection, incident handling and continuity, which 27002 provides. 27001 is essential for organizational governance but less detailed for solution architecture. NIST CSF 2.0 can structure the initial profile and gap assessment before purchase."
+}

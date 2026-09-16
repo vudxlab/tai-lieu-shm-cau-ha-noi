@@ -1,0 +1,18 @@
+{
+  "id": "A11",
+  "exact_edition_year": "AASHTO Manual for Bridge Evaluation, 3rd ed. with 2020 and 2022 Interim Revisions",
+  "official_page": "https://store.transportation.org/Item/PublicationDetail?ID=3951",
+  "preview_library_urls": [
+    "https://store.transportation.org/Common/DownloadContentFiles?id=910"
+  ],
+  "lawful_downloaded_files": [
+    "files/PREVIEW/A11/AASHTO_MBE_2nd_2011_official_preview.pdf",
+    "files/PREVIEW/A11/AASHTO_MBE_3rd_2022_interim_official.pdf",
+    "files/PREVIEW/A11/FHWA_Manual_Refined_Analysis_Bridge_Design_Evaluation.pdf",
+    "files/PREVIEW/A11/FHWA_Advancing_Bridge_Load_Rating_2022.pdf"
+  ],
+  "scope_summary": "Inspection, evaluation, load rating, fatigue and posting of existing bridges.",
+  "overlap": "Architecture/data needs are partly covered by SNBI, BIRM and FHWA load-rating guides; exact AASHTO procedures are needed only when producing defensible US-method load ratings.",
+  "recommendation": "buy_later",
+  "rationale": "Useful for CV 2.6/3.7 but not needed to define the SHM architecture. Buy when the project fixes AASHTO load-rating methodology or must cite its equations/procedures."
+}

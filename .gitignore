@@ -1,0 +1,22 @@
+# File vượt giới hạn 100 MB của GitHub
+files/A/A9_FHWA-NHI-23-024_BIRM_2023.pdf
+
+# Metadata Git lồng trong UCUM
+files/C/C2_UCUM_repo/.git/
+
+# Script tạm và dữ liệu trung gian phục vụ thu thập
+*.py
+pages.json
+mcp_download_results.json
+search_results.json
+run_downloads.py
+download_official.py
+extract_links.py
+build_report.py
+
+# File tạm hệ điều hành và trình soạn thảo
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.part

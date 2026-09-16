@@ -1,0 +1,107 @@
+[
+  {
+    "id": "A12",
+    "file": "Caltrans_Bridge_Element_Inspection_Manual.pdf",
+    "url": "https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/f0009170-elem-man-a11y.pdf",
+    "ok": false,
+    "error": "URLError(TimeoutError('timed out'))"
+  },
+  {
+    "id": "A12",
+    "file": "FHWA_SNBI_2022.pdf",
+    "url": "https://www.fhwa.dot.gov/bridge/snbi/snbi_march_2022_publication.pdf",
+    "ok": true,
+    "bytes": 6728697
+  },
+  {
+    "id": "A13",
+    "file": "MOT_China_JTGTH21_2011_announcement.html",
+    "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3312369.html",
+    "ok": true,
+    "bytes": 25053
+  },
+  {
+    "id": "A13",
+    "file": "Zhu_2024_condition_assessment_JTG_H21.pdf",
+    "url": "https://www.mdpi.com/2075-5309/14/2/543/pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B6",
+    "file": "Caspani_2022_SHM_design_temperature_compensation.pdf",
+    "url": "https://www.mdpi.com/2412-3811/7/1/5/pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B6",
+    "file": "TRB_EC246_Structural_Monitoring_2019.pdf",
+    "url": "https://onlinepubs.trb.org/onlinepubs/circulars/ec246.pdf",
+    "ok": false,
+    "error": "IncompleteRead(704172 bytes read, 167672 more expected)"
+  },
+  {
+    "id": "B6",
+    "file": "Lehmann_2025_Global_Perspectives_Structural_Monitoring.pdf",
+    "url": "https://opus4.kobv.de/opus4-bam/files/64385/shmii_13_063.pdf",
+    "ok": false,
+    "bytes": 4642
+  },
+  {
+    "id": "B7",
+    "file": "ISO_14963_2003_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+14963-2003.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B7",
+    "file": "FHWA_RD_03_089_Dynamic_Bridge_Substructure.pdf",
+    "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/geotechnical/03089/03089.pdf",
+    "ok": true,
+    "bytes": 6482679
+  },
+  {
+    "id": "B8",
+    "file": "ISO_16587_2004_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+16587-2004.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B9",
+    "file": "ISO_18649_2004_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+18649-2004.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B9",
+    "file": "FHWA_HRT_21_011_Load_Testing_Bridges.pdf",
+    "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/bridge/21011/21011.pdf",
+    "ok": true,
+    "bytes": 7480469
+  },
+  {
+    "id": "B10",
+    "file": "ISO_13822_2010_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+13822-2010.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B10",
+    "file": "JRC_EUR23252_Assessment_Existing_Steel_Structures.pdf",
+    "url": "https://eurocodes.jrc.ec.europa.eu/sites/default/files/2021-12/EUR23252EN.pdf",
+    "ok": false,
+    "bytes": 244
+  },
+  {
+    "id": "B10",
+    "file": "Holicky_Basics_Assessment_Existing_Structures.pdf",
+    "url": "https://www.stavarna.com/download2/235_1863_cs_basics_assessment_existing_structures_cb.pdf",
+    "ok": true,
+    "bytes": 3972337
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "F11",
+  "edition/year": "TCVN 9360:2012 (61 pages); TCVN 9399:2012 (45 pages)",
+  "official page": "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+9360%3A2012",
+  "preview/library URLs": [
+    "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+9399%3A2012",
+    "https://www.mtu.edu.vn/Resources/Docs/Khoa%20-%20Bo%20mon/Khoa%20Xay%20dung/Tai%20lieu%20tham%20khao/TCVN/Khao%20sat/TCVN9399_2012.pdf"
+  ],
+  "files": [],
+  "scope summary": "TCVN 9360 specifies geometrical-levelling procedures and technical indicators for settlement monitoring of civil and industrial buildings. TCVN 9399 specifies technical requirements, methods, observation procedures and data processing for horizontal displacement of buildings/civil structures under lateral pressure or on potentially moving/sliding ground.",
+  "overlap": "Both are geodetic monitoring standards, not bridge SHM standards. They can inform survey control, benchmarks, accuracy classes, campaigns and processing for piers/abutments or adjacent ground, but their stated scopes do not directly establish bridge-specific continuous sensor architecture or structural warning limits.",
+  "recommendation": "MEDIUM, CONDITIONAL — buy TCVN 9399 if horizontal pier/abutment or slope displacement is in scope; buy TCVN 9360 only if precise settlement levelling is a required subsystem. Otherwise cite catalog scope and rely on bridge/geodetic project specifications.",
+  "rationale": "The combined official PDF price shown by VSQI is 1,272,000 VNĐ (732,000 + 540,000), so selective acquisition is warranted. Their value is strongest for acceptance procedures and periodic control surveys, not the core streaming SHM data model. Confirm applicability to bridges with the survey lead before procurement."
+}

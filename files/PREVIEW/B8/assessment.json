@@ -1,0 +1,13 @@
+{
+  "id": "B8",
+  "exact_edition_year": "ISO 16587:2004",
+  "official_page": "https://www.iso.org/standard/32318.html",
+  "preview_library_urls": [
+    "https://www.iso.org/obp/ui/en/#!iso:std:32318:en"
+  ],
+  "lawful_downloaded_files": [],
+  "scope_summary": "Performance parameters, monitored quantities and acceptable limits for condition monitoring of structures.",
+  "overlap": "SAMCO, FHWA and project threshold work cover similar concepts, but this standard provides a compact normative parameter framework.",
+  "recommendation": "buy_later",
+  "rationale": "Potentially useful for CV 2.2/2.6, but old and not bridge-architecture-critical. Buy after UNI/TR 11634 and ISO 13822 if normative parameter definitions are needed."
+}

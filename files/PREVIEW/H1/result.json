@@ -1,0 +1,19 @@
+{
+  "id": "H1",
+  "edition/year": "ISO/IEC/IEEE 42010:2022, Edition 2",
+  "official": [
+    "https://www.iso.org/standard/74393.html",
+    "https://standards.ieee.org/ieee/42010/6846/",
+    "https://www.iso.org/obp/ui/en/#!iso:std:74393:en"
+  ],
+  "preview/library URLs": [
+    "http://www.iso-architecture.org/42010/cm/",
+    "http://www.iso-architecture.org/42010/templates/",
+    "https://www.omgwiki.org/MBSE/lib/exe/fetch.php?media=mbse:incose_mbse_iw_2022:iw2022_iso_iec_ieee_42010_update.pdf"
+  ],
+  "files": [],
+  "scope": "Requirements for architecture descriptions, architecture description frameworks and languages, viewpoints, model kinds, correspondences and conformance. Edition 2 broadens the subject from a system of interest to an entity of interest and supports enterprise as well as software/system architecture.",
+  "overlap": "The standard authors' conceptual-model site and starter templates lawfully expose the method's core structure. The INCOSE edition-update deck explains Edition 2 changes. These are strong implementation aids but not a substitute for the normative shall-requirements and conformance clauses.",
+  "recommendation": "PURCHASE FIRST — acquire ISO/IEC/IEEE 42010:2022 before freezing the Hanoi bridge SHM architecture-description method. Prefer whichever authorized channel (ISO, IEEE, national standards body, institutional IEEE subscription) gives licensed team access. Do not purchase the superseded 2011 edition unless needed solely for historical comparison.",
+  "rationale": "This is the most direct standard for the requested architecture deliverable: stakeholders, concerns, viewpoints/views, model kinds, decisions/rationale and cross-view correspondences. It governs how every technical, operations, data, cybersecurity and asset-management view is organized."
+}

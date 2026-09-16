@@ -1,0 +1,20 @@
+{
+  "id": "G10",
+  "edition/year": "ISO 15686-5:2017, Edition 2 (confirmed current in 2024)",
+  "official": [
+    "https://www.iso.org/standard/61148.html",
+    "https://www.iso.org/obp/ui/#iso:std:iso:15686:-5:ed-2:v1:en"
+  ],
+  "preview/library URLs": [
+    "https://www.iso.org/obp/ui/#iso:std:iso:15686:-5:ed-2:v1:en",
+    "https://www.nist.gov/publications/life-cycle-costing-manual-federal-energy-management-program-0",
+    "https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.135-2020.pdf"
+  ],
+  "files": [
+    "files/PREVIEW/G10/NIST_HB_135-2020_Life_Cycle_Costing.pdf"
+  ],
+  "scope": "Requirements and guidance for life-cycle-cost analysis of new or existing buildings and constructed assets, covering acquisition through operation and disposal, comparisons among alternatives, and portfolio/project/component analysis.",
+  "overlap": "NIST Handbook 135 is a lawful, detailed LCC-method equivalent for pre-purchase evaluation, but is tailored to US federal energy/water investment rules. It demonstrates discounting, study periods, cash-flow treatment and sensitivity analysis; it does not replace ISO terminology, scope conventions or an ISO-conformant citation.",
+  "recommendation": "PURCHASE LATER — buy ISO 15686-5:2017 only when the team begins the investment/economic justification and OPEX/CAPEX comparison work package. Do not buy the withdrawn 2008 edition.",
+  "rationale": "Useful for proving whole-life economic value of SHM, but it does not determine the SHM system architecture itself. The official ISO abstract and lawful NIST handbook are sufficient to validate relevance before purchase. Architecture, asset-management and security standards should be acquired first."
+}

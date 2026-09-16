@@ -1,0 +1,15 @@
+{
+  "id": "B9",
+  "exact_edition_year": "ISO 18649:2004",
+  "official_page": "https://www.iso.org/standard/33544.html",
+  "preview_library_urls": [
+    "https://www.iso.org/obp/ui/en/#!iso:std:33544:en"
+  ],
+  "lawful_downloaded_files": [
+    "files/PREVIEW/B9/FHWA_HRT_21_011_Load_Testing_Bridges.pdf"
+  ],
+  "scope_summary": "Evaluation of measurement results from dynamic bridge tests and investigations.",
+  "overlap": "FHWA load-testing/model-calibration guidance provides substantial open implementation detail.",
+  "recommendation": "buy_later",
+  "rationale": "Needed only when CV 3.5 specifies normative evaluation of dynamic-test results. Defer during architecture definition."
+}

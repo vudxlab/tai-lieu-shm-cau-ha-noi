@@ -1,0 +1,17 @@
+{
+  "id": "D3",
+  "edition/year": "EN 16991:2018 / national adoptions such as EVS-EN 16991:2018 and SIST EN 16991:2018",
+  "official page": "https://www.evs.ee/en/evs-en-16991-2018",
+  "preview/library URLs": [
+    "https://standards.iteh.ai/catalog/standards/sist/411bfd1f-8acf-4cc3-b781-f8ffc084defe/sist-en-16991-2018",
+    "https://cdn.standards.iteh.ai/samples/59454/db0c797cd80c44dba7dabf5013e3e99a/SIST-EN-16991-2018.pdf",
+    "https://shop.standards.ie/en-ie/standards/en-16991-2018-343204_saig_cen_cen_785721/"
+  ],
+  "files": [
+    "files/PREVIEW/D3/SIST-EN-16991-2018_iTeh_preview.pdf"
+  ],
+  "scope summary": "Risk-Based Inspection Framework and guidance for risk-based inspection and maintenance, primarily for hydrocarbon and chemical process industries, power generation and other industries where RBI applies; supports operation/maintenance optimization and asset integrity management.",
+  "overlap": "Conceptually overlaps D1 value-of-information and risk-based resource allocation, but is not bridge-specific. Its industrial equipment degradation mechanisms, risk matrices and inspection programme structure may inform governance. The claimed bridge concrete deterioration curve should instead be sourced directly from the Italian bridge guideline already held (A1/A3), because EN 16991's stated scope does not establish it as a bridge deterioration reference.",
+  "recommendation": "LOW — do not buy for the present bridge SHM architecture unless the deliverable explicitly requires a generic auditable RBI method beyond available bridge guidance.",
+  "rationale": "The lawful preview confirms strong process-industry orientation. A low-cost national adoption could be considered later, but bridge-specific Italian guidelines, JT/T 1037 and domestic inspection/design rules have higher direct applicability."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "B7",
+  "exact_edition_year": "ISO 14963:2003 (confirmed current status should be rechecked at order time)",
+  "official_page": "https://www.iso.org/standard/38492.html",
+  "preview_library_urls": [
+    "https://www.iso.org/obp/ui/ru/#!iso:std:38492:en",
+    "https://archive.org/details/gov.in.is.iso.14963.2003"
+  ],
+  "lawful_downloaded_files": [
+    "files/PREVIEW/B7/FHWA_RD_03_089_Dynamic_Bridge_Substructure.pdf"
+  ],
+  "scope_summary": "Planning and classifying dynamic tests and investigations on bridges and viaducts.",
+  "overlap": "FHWA and research guidance cover practical modal/dynamic tests; ISO adds a concise normative structure.",
+  "recommendation": "buy_later",
+  "rationale": "Purchase when dynamic testing becomes a specified acceptance or investigation activity. It is not required for the high-level architecture."
+}

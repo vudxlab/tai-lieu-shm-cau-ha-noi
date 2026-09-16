@@ -1,0 +1,16 @@
+{
+  "id": "A12",
+  "exact_edition_year": "AASHTO Manual for Bridge Element Inspection, 2nd ed.; requires 2022, 2024 and 2025 Interim Revisions for current text",
+  "official_page": "https://store.transportation.org/Item/PublicationDetail?ID=4155",
+  "preview_library_urls": [
+    "https://aashtojournal.transportation.org/revisions-for-aashtos-bridge-element-manual/"
+  ],
+  "lawful_downloaded_files": [
+    "files/PREVIEW/A12/AASHTO_MBEI_2nd_2024_interim_official.pdf",
+    "files/PREVIEW/A12/FHWA_SNBI_2022.pdf"
+  ],
+  "scope_summary": "Standardized bridge elements, quantities, defects, condition states and inspection conventions.",
+  "overlap": "SNBI provides open federal data specifications and some element/condition concepts; MBEI adds the authoritative detailed element catalogue and defect guidance.",
+  "recommendation": "buy_later",
+  "rationale": "For architecture and identifiers, SNBI plus local decomposition can support design. Buy before finalizing an AASHTO-compatible element dictionary or inspection application."
+}

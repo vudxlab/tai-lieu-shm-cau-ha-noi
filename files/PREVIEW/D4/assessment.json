@@ -1,0 +1,15 @@
+{
+  "id": "D4",
+  "edition/year": "Wiley, first published 2012 (commonly cited 2013); print ISBN 9781119994336, online ISBN 9781118443118",
+  "official page": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118443118",
+  "preview/library URLs": [
+    "https://books.google.com/books/about/Structural_Health_Monitoring.html?id=2w_sp6lersUC",
+    "https://search.worldcat.org/search?q=isbn%3A9781119994336",
+    "https://royalsocietypublishing.org/doi/10.1098/rsta.2006.1938"
+  ],
+  "files": [],
+  "scope summary": "Comprehensive SHM textbook casting the problem as machine learning/statistical pattern recognition. Chapters cover operational evaluation, sensing/data acquisition, case studies, probability/statistics, damage-sensitive features, nonlinear-response features, supervised/unsupervised learning, data normalization, SHM axioms and damage prognosis.",
+  "overlap": "Substantial overlap with existing D2 Los Alamos review, B1 SAMCO, E2 system-identification material and newer open review literature. The book adds coherent pedagogy, worked examples and deep treatment of feature engineering, novelty detection and normalization rather than unique architecture requirements.",
+  "recommendation": "MEDIUM-LOW — seek institutional e-book/WorldCat loan or buy used; buy new only for the analytics work package or team training, not as an architecture prerequisite.",
+  "rationale": "High technical quality and durable reference value, especially for environmental/operational variability and novelty detection, but the current task is system architecture and governance. Wiley's official page and Google Books expose a detailed TOC sufficient to confirm fit before purchase."
+}

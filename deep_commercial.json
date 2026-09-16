@@ -1,0 +1,700 @@
+{
+  "schema_version": "1.0",
+  "research_date": "2026-09-16",
+  "lawfulness_policy": "Only issuer/government/institutionally authorized materials, authorized previews, open-access guidance, and library discovery records are included. No pirate full copies are linked or retained.",
+  "requested_explicit_ids": [
+    "A11",
+    "A12",
+    "A13",
+    "B6",
+    "B7",
+    "B8",
+    "B9",
+    "B10",
+    "B11",
+    "B13",
+    "C3",
+    "C5",
+    "D3",
+    "D4",
+    "G10",
+    "H1",
+    "H2",
+    "H3",
+    "H4",
+    "H5"
+  ],
+  "additional_ids_in_existing_22_item_commercial_set": [
+    "F10",
+    "F11"
+  ],
+  "summary": {
+    "entries": 22,
+    "explicit_user_list_count": 20,
+    "entries_with_text_identical_open_alternative": 1,
+    "entries_with_local_lawful_artifacts": 15,
+    "local_artifact_count": 21,
+    "fully_open_normative_content": [
+      "C3: OGC 20-082r4 is explicitly text-identical to ISO 19156:2023(E), except branding/copyright pages",
+      "B13 component GB 50982-2014: official Chinese full text from Shaanxi government; not an alternative to JT/T 1037-2022"
+    ],
+    "key_blockers": [
+      "publisher purchase/license",
+      "read-only browser or bot-blocked preview",
+      "institutional subscription/library authentication",
+      "edition under revision or review",
+      "authorized translation completeness/terminology"
+    ]
+  },
+  "entries": [
+    {
+      "id": "A11",
+      "exact_edition_year": "AASHTO Manual for Bridge Evaluation, 3rd ed. with 2020 and 2022 Interim Revisions",
+      "edition_status": "Current store bundle found: 3rd Edition with 2020 and 2022 Interim Revisions.",
+      "official_page": "https://store.transportation.org/Item/PublicationDetail?ID=3951",
+      "authoritative_and_preview_urls": [
+        "https://store.transportation.org/Common/DownloadContentFiles?id=910",
+        "https://store.transportation.org/Item/PublicationDetail?ID=3951",
+        "https://aashtojournal.transportation.org/aashto-issues-interim-bridge-evaluation-manual"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/A11/AASHTO_MBE_2nd_2011_official_preview.pdf",
+          "bytes": 567086,
+          "sha256": "9dbdfe3b41331b59df03801e6813ecf03c6cb208a02924f4dfca17f73710bace",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/A11/AASHTO_MBE_3rd_2022_interim_official.pdf",
+          "bytes": 1047625,
+          "sha256": "64dea6493ce03edbffa230f33479ed20161d376a0aab2db4a704cc3ce75c0c77",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/A11/FHWA_Manual_Refined_Analysis_Bridge_Design_Evaluation.pdf",
+          "bytes": 32686782,
+          "sha256": "5447c9d516ec7f8ba7b36252e975be07a076b0dd009ce8fb8c26b0050f405b18",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/A11/FHWA_Advancing_Bridge_Load_Rating_2022.pdf",
+          "bytes": 10257340,
+          "sha256": "ed2c78d7b7c3c7196406b405c5df402b516bbf3ead048a527ee09880dbe06e32",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "official base-edition preview + official 2020/2022 interim revision text + detailed FHWA implementation guidance; base normative text remains closed",
+      "scope_summary": "Inspection, evaluation, load rating, fatigue and posting of existing bridges.",
+      "open_overlap_or_alternative": "Architecture/data needs are partly covered by SNBI, BIRM and FHWA load-rating guides; exact AASHTO procedures are needed only when producing defensible US-method load ratings.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "AASHTO store purchase/license required for the complete 3rd-edition base text. The lawful 2022 interim PDF changes only affected pages and is unusable alone. No 2025 MBE interim was found; do not confuse MBE with MBEI.",
+      "recommendation": "buy_later",
+      "rationale": "Useful for CV 2.6/3.7 but not needed to define the SHM architecture. Buy when the project fixes AASHTO load-rating methodology or must cite its equations/procedures."
+    },
+    {
+      "id": "A12",
+      "exact_edition_year": "AASHTO Manual for Bridge Element Inspection, 2nd ed.; requires 2022, 2024 and 2025 Interim Revisions for current text",
+      "edition_status": "Current store bundle: 2nd Edition with 2022, 2024 and 2025 Interim Revisions.",
+      "official_page": "https://store.transportation.org/Item/PublicationDetail?ID=4155",
+      "authoritative_and_preview_urls": [
+        "https://aashtojournal.transportation.org/revisions-for-aashtos-bridge-element-manual/",
+        "https://store.transportation.org/Item/PublicationDetail?ID=4156"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/A12/AASHTO_MBEI_2nd_2024_interim_official.pdf",
+          "bytes": 906191,
+          "sha256": "d6350fe20c02442970f34094cd4362684d3a6e8e265874bd814f89b2d031afd2",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/A12/FHWA_SNBI_2022.pdf",
+          "bytes": 6728697,
+          "sha256": "2b55c855c0ed306dfd02b06a0533d48103c3aee7e1685aee5c5e35a671b96142",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "official 2024 interim-revision text + full open FHWA SNBI specification; no complete MBEI base text",
+      "scope_summary": "Standardized bridge elements, quantities, defects, condition states and inspection conventions.",
+      "open_overlap_or_alternative": "SNBI provides open federal data specifications and some element/condition concepts; MBEI adds the authoritative detailed element catalogue and defect guidance.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Complete 2nd-edition text is licensed by AASHTO. Current information requires the 2022, 2024 and 2025 interim revisions together with the base edition; the 2024 file alone is incomplete.",
+      "recommendation": "buy_later",
+      "rationale": "For architecture and identifiers, SNBI plus local decomposition can support design. Buy before finalizing an AASHTO-compatible element dictionary or inspection application."
+    },
+    {
+      "id": "A13",
+      "exact_edition_year": "JTG/T H21-2011, effective 2011-09-01",
+      "edition_status": "JTG/T H21-2011 remains actively cited alongside JTG 5120-2021; no official replacement located.",
+      "official_page": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3312369.html",
+      "authoritative_and_preview_urls": [
+        "https://www.codeofchina.com/standard/JTGT-H21-2011.html",
+        "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3312369.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/A13/MOT_China_JTGTH21_2011_announcement.html",
+          "bytes": 25053,
+          "sha256": "d3b294945f06922c1a980c67d6945c0fe60da84475b7a15cef5d77d5eb8c3d40",
+          "mime": "text/html"
+        }
+      ],
+      "content_assessability": "official Ministry announcement/metadata + open secondary application literature; normative clauses unavailable in English without purchase",
+      "scope_summary": "Chinese technical-condition evaluation and scoring for highway bridges.",
+      "open_overlap_or_alternative": "Italian Linee Guida, SNBI/BIRM and Vietnamese inspection rules already provide classification inputs; JTG/T H21 is valuable mainly as a regional scoring comparator.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Chinese standard text/authorized English translation is not openly supplied by the issuing Ministry page. Commercial translation purchase is required; verify translation authorization, completeness, tables and annexes.",
+      "recommendation": "buy_later",
+      "rationale": "Buy only if the task will formally compare or adapt a Chinese-style bridge condition score. Otherwise cite secondary studies and use open/current frameworks."
+    },
+    {
+      "id": "B6",
+      "exact_edition_year": "UNI/TR 11634:2026 (replaces/supersedes 2016 edition for new procurement)",
+      "edition_status": "UNI/TR 11634:2026, in force 2026-09-10; replaces 2016.",
+      "official_page": "https://store.uni.com/uni-tr-11634-2026",
+      "authoritative_and_preview_urls": [
+        "https://www.uni.com/214-43/",
+        "https://www.mdpi.com/2412-3811/7/1/5",
+        "https://store.uni.com/uni-tr-11634-2026"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official scope/status page; secondary technical explanations; no open normative preview retained",
+      "scope_summary": "Design, installation, operation, maintenance and use of structural monitoring systems, including uncertainty and decision use.",
+      "open_overlap_or_alternative": "SAMCO, Sustainable Bridges, ISHMS and TRB E-C246 cover much methodology, but UNI/TR is directly referenced by the Italian bridge guideline and consolidates an operational monitoring lifecycle.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "UNI full text is paywalled. A third-party preview located in search is subscription-gated, so it was not saved. Purchase the newly effective 2026 edition rather than the superseded 2016 report.",
+      "recommendation": "buy_now",
+      "rationale": "Highest-priority technical monitoring purchase. Purchase the 2026 edition, not 2016, because the project uses Linee Guida Ponti and must make the monitoring architecture auditable."
+    },
+    {
+      "id": "B7",
+      "exact_edition_year": "ISO 14963:2003 (confirmed current status should be rechecked at order time)",
+      "edition_status": "ISO 14963:2003 Edition 1, reviewed and confirmed in 2025.",
+      "official_page": "https://www.iso.org/standard/38492.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/ru/#!iso:std:38492:en",
+        "https://archive.org/details/gov.in.is.iso.14963.2003",
+        "https://www.iso.org/standard/38492.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/B7/FHWA_RD_03_089_Dynamic_Bridge_Substructure.pdf",
+          "bytes": 6482679,
+          "sha256": "6c72a38479be5b40dc6e0abe0de1a404bea3647fe52bca9593a9e1bce690aaae",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "ISO official abstract/status/read-only sample + full open FHWA technical guide; ANSI preview URL is bot-blocked from this environment",
+      "scope_summary": "Planning and classifying dynamic tests and investigations on bridges and viaducts.",
+      "open_overlap_or_alternative": "FHWA and research guidance cover practical modal/dynamic tests; ISO adds a concise normative structure.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full 27-page normative text requires licensed purchase/access. ANSI direct preview returned HTTP 403; ISO OBP remains browser/read-only.",
+      "recommendation": "buy_later",
+      "rationale": "Purchase when dynamic testing becomes a specified acceptance or investigation activity. It is not required for the high-level architecture."
+    },
+    {
+      "id": "B8",
+      "exact_edition_year": "ISO 16587:2004",
+      "edition_status": "ISO 16587:2004 Edition 1 remains listed Published; 2024 systematic-review outcome should be reconfirmed.",
+      "official_page": "https://www.iso.org/standard/32318.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/en/#!iso:std:32318:en",
+        "https://www.iso.org/standard/32318.html"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "ISO official abstract/status/read-only sample; no local normative preview",
+      "scope_summary": "Performance parameters, monitored quantities and acceptable limits for condition monitoring of structures.",
+      "open_overlap_or_alternative": "SAMCO, FHWA and project threshold work cover similar concepts, but this standard provides a compact normative parameter framework.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full 10-page normative text requires purchase/access. ANSI direct preview returned HTTP 403. ISO lifecycle shows the 2024 review closed but the public page does not expose the final outcome clearly; recheck immediately before ordering.",
+      "recommendation": "buy_later",
+      "rationale": "Potentially useful for CV 2.2/2.6, but old and not bridge-architecture-critical. Buy after UNI/TR 11634 and ISO 13822 if normative parameter definitions are needed."
+    },
+    {
+      "id": "B9",
+      "exact_edition_year": "ISO 18649:2004",
+      "edition_status": "ISO 18649:2004 Edition 1, confirmed 2025-11-25.",
+      "official_page": "https://www.iso.org/standard/33544.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/en/#!iso:std:33544:en",
+        "https://www.iso.org/standard/33544.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/B9/FHWA_HRT_21_011_Load_Testing_Bridges.pdf",
+          "bytes": 7480469,
+          "sha256": "f8b0089ec5e2a32495408fac07ffb074365bb6dba8ae83f4b386f08214826b18",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "ISO official abstract/status/read-only sample + full open FHWA bridge load-testing guide",
+      "scope_summary": "Evaluation of measurement results from dynamic bridge tests and investigations.",
+      "open_overlap_or_alternative": "FHWA load-testing/model-calibration guidance provides substantial open implementation detail.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full 26-page normative text requires purchase/access. ANSI direct preview returned HTTP 403.",
+      "recommendation": "buy_later",
+      "rationale": "Needed only when CV 3.5 specifies normative evaluation of dynamic-test results. Defer during architecture definition."
+    },
+    {
+      "id": "B10",
+      "exact_edition_year": "ISO 13822:2010, Edition 2 (recheck revision status before purchase)",
+      "edition_status": "ISO 13822:2010 Edition 2, confirmed in 2021 and still current.",
+      "official_page": "https://www.iso.org/standard/46556.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/#iso:std:iso:13822:ed-2:v1:en",
+        "https://www.iso.org/standard/46556.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/B10/Holicky_Basics_Assessment_Existing_Structures.pdf",
+          "bytes": 3972337,
+          "sha256": "61fd69f5f62e4eb80c6b9f7b178cafffba6c1882a5d81f68e5352af55a9ab204",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "ISO official detailed abstract/status/read-only sample + full open author guidance closely explaining the assessment framework",
+      "scope_summary": "General requirements and procedures for assessment of existing buildings, bridges and industrial structures.",
+      "open_overlap_or_alternative": "JCSS/open papers explain reliability assessment, but ISO 13822 supplies the normative assessment process connecting inspection, analysis, verification and intervention.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full 44-page normative text requires purchase/access. ANSI direct preview returned HTTP 403. Open guidance is technically useful but not declared text-identical.",
+      "recommendation": "buy_now",
+      "rationale": "Core foundation for defensible Class-1 thresholds and assessment workflow. Buy after checking whether a replacement edition is imminent."
+    },
+    {
+      "id": "B11",
+      "exact_edition_year": "ISO 17359:2018, edition 3 (confirmed 2023)",
+      "edition_status": "ISO 17359:2018 Edition 3, confirmed 2023.",
+      "official_page": "https://www.iso.org/standard/71194.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/#iso:std:iso:17359:ed-3:v1:en",
+        "https://cdn.standards.iteh.ai/samples/71194/c551f4c170654bb19be2ee017d144969/ISO-17359-2018.pdf",
+        "https://www.iso.org/standard/71194.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/B11/ISO-17359-2018_iTeh_preview.pdf",
+          "bytes": 1330109,
+          "sha256": "d65998c0f554c8b066a4d06bbc8bc1de14d4263ba3f5e7e572106c8682e46e45",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "lawful substantial commercial preview exposing contents/selected text + ISO official abstract/status",
+      "scope_summary": "29-page, machine-focused parent guideline for setting up a condition-monitoring programme: procedure overview, cost-benefit justification, asset audit/criticality, reliability and failure modes, measurement selection, data acquisition/analysis, alarm criteria, diagnosis/prognosis, reporting and programme review.",
+      "open_overlap_or_alternative": "Strong conceptual overlap with existing B1/B2 SAMCO SHM guidance and D1/D2 value/statistical-pattern frameworks. Its scope is all machines, not civil structures or bridges; bridge-specific sensor placement, environmental normalization and structural limit states are outside scope.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Preview is not the complete 29-page standard; purchase needed only for complete normative clauses/conformance claim.",
+      "recommendation": "LOW — defer purchase; use lawful preview and existing SHM sources unless the architecture must formally claim ISO 17359 conformance or cover rotating/mechanical bridge assets.",
+      "rationale": "Useful as a generic closed-loop condition-monitoring lifecycle, but marginal incremental value for a Hanoi bridge SHM architecture. The preview exposes enough structure to decide that B13, C5 Part 3, and selected TCVN 11823 parts are more project-specific."
+    },
+    {
+      "id": "B13",
+      "exact_edition_year": "JT/T 1037-2022 (replaces JT/T 1037-2016); GB 50982-2014 (effective 2015)",
+      "edition_status": "JT/T 1037-2022 replaces JT/T 1037-2016; GB 50982-2014 remains the located building/bridge monitoring code.",
+      "official_page": "https://hbba.sacinfo.org.cn/stdDetail/da1a6a1a042f85281ead19fae2a37c587dc2a23593f3d83e1da0c582c894fb2a",
+      "authoritative_and_preview_urls": [
+        "https://snamr.shaanxi.gov.cn/sy/ztzl/sbgxhxfpyjhx/bzcx/gjbz/202410/t20241030_3439066.html",
+        "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2018.00010/full",
+        "https://xxgk.mot.gov.cn/2020/jigou/glj/202410/P020241010534784302209.pdf",
+        "https://ebook.chinabuilding.com.cn/zbooklib/book/detail/show?SiteID=1&bookID=149868",
+        "https://hbba.sacinfo.org.cn/stdDetail/da1a6a1a042f85281ead19fae2a37c587dc2a23593f3d83e1da0c582c894fb2a"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/B13/GB-50982-2014_official_Shaanxi.pdf",
+          "bytes": 5740752,
+          "sha256": "c923654508f79fcb257894b8abd463a69e49f801d48e7170dd18e822cf3449a3",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/B13/JTT-1037-2018_Frontiers_article.pdf",
+          "bytes": 659845,
+          "sha256": "61453e2fb50eb1fa422a0d3374fc4319a0985514c5b16957d0cb77b69aa8819e",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "lawful official full GB 50982-2014 Chinese text + official JT/T 1037-2022 metadata/application evidence + open paper on superseded 2016 edition",
+      "scope_summary": "JT/T 1037-2022 directly covers highway-bridge structural monitoring system design, implementation, acceptance, operations/maintenance, monitoring content and point layout, methods, systems, data management and monitoring applications. GB 50982-2014 covers monitoring and warning for buildings and bridge structures; clause 3.1.8 requiring warning values is mandatory. A 2024 Ministry of Transport big-data application guide lawfully reveals operational use of JT/T 1037-2022 Table 9 multi-level exceedance thresholds.",
+      "open_overlap_or_alternative": "Overlaps B1/B3/B4 on general SHM process, but adds bridge-specific prescriptive system lifecycle, point layout, data governance, applications and thresholding. GB 50982 is broader and partly overlaps JT/T 1037; JT/T 1037-2022 is the primary acquisition target. The downloaded 2018 article explains the superseded 2016 code, so it is orientation evidence rather than a substitute for the 2022 text.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "JT/T 1037-2022 complete authorized English translation remains commercial. GB 50982 full Chinese text is open from a provincial government source, but translation/terminology validation is still needed.",
+      "recommendation": "HIGHEST — buy JT/T 1037-2022 English translation first; use the official lawful GB 50982-2014 copy before deciding whether any paid translation is needed.",
+      "rationale": "This is the closest foreign normative analogue to the requested bridge SHM architecture and spans system architecture, lifecycle governance, data and warning/application layers. Climate similarity is secondary; direct highway-bridge specificity and current operational guidance make it uniquely valuable. Confirm translation completeness and that annexes/tables are included before purchase."
+    },
+    {
+      "id": "C3",
+      "exact_edition_year": "ISO 19156:2023, edition 2 / OGC Abstract Specification Topic 20, version 3.0 (20-082r4)",
+      "edition_status": "ISO 19156:2023 Edition 2 / OGC OMS 3.0, document 20-082r4.",
+      "official_page": "https://www.iso.org/standard/82463.html",
+      "authoritative_and_preview_urls": [
+        "https://www.ogc.org/standards/om/",
+        "https://docs.ogc.org/as/20-082r4/20-082r4.html",
+        "https://www.iso.org/standard/82463.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/C3/OGC-20-082r4_OMS_3.0.html",
+          "bytes": 12247959,
+          "sha256": "510ec2a13713f175b800c4313e02917dec2f7f73420fbc1959f5074d9558525a",
+          "mime": "text/html"
+        }
+      ],
+      "content_assessability": "complete lawful open OGC standard; explicitly identical substantive text to ISO 19156:2023(E)",
+      "scope_summary": "Conceptual schema for observations, observed properties, procedures, observers, results, features of interest, deployments, collections, sampling and sample relationships, with modular requirements and conformance classes.",
+      "open_overlap_or_alternative": "The openly published OGC 20-082r4 states that it was created from ISO 19156:2023(E) after ISO final edits and has identical content except copyright, title pages and double branding. It therefore provides the substantive model needed for mapping the existing OGC SensorThings API (C1).",
+      "text_identical_open_alternative": {
+        "available": true,
+        "name": "OGC Abstract Specification Topic 20: Observations, measurements and samples, v3.0 (20-082r4)",
+        "url": "https://docs.ogc.org/as/20-082r4/20-082r4.html",
+        "evidence": "OGC states it was created from ISO 19156:2023(E) after ISO final edits and has identical content except copyright, title pages and double branding."
+      },
+      "purchase_or_access_blocker": "No technical-content blocker. Purchase only if a contract/procurement system requires the ISO-branded controlled copy.",
+      "recommendation": "DO NOT BUY for technical content — adopt the royalty-free OGC identical text; purchase ISO only if procurement, audit or contract rules require an ISO-branded controlled copy.",
+      "rationale": "A lawful, authoritative, text-identical equivalent is available and already downloaded. Funds should be redirected to sources without an open equivalent. Note that ISO 19156:2011 is superseded; architecture work should target the 2023/OMS 3.0 model while documenting SensorThings 1.1 profile differences."
+    },
+    {
+      "id": "C5",
+      "exact_edition_year": "ISO 19650-1:2018; -2:2018; -3:2020; -4:2022; -5:2020; -6:2025. Parts 1-3 are under revision as of 2026.",
+      "edition_status": "Current published set: -1:2018, -2:2018, -3:2020, -4:2022, -5:2020, -6:2025; Parts 1-3 under revision.",
+      "official_page": "https://www.iso.org/standard/75109.html",
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/standard/68078.html",
+        "https://www.iso.org/standard/68080.html",
+        "https://www.iso.org/standard/75109.html",
+        "https://www.iso.org/standard/78246.html",
+        "https://www.iso.org/standard/74206.html",
+        "https://www.iso.org/standard/82705.html",
+        "https://www.ukbimframework.org/wp-content/uploads/2021/02/Guidance-Part-3_Operational-phase-of-the-asset-life-cycle_Edition-2.pdf"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/C5/UK-BIM-Framework_ISO19650-3_Guidance_Ed2.pdf",
+          "bytes": 1702020,
+          "sha256": "b5df61a1599763a3a020f97d05fe56e3c441031acdacca0bfafd44510c12e3c4",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "official scope pages for all six parts + detailed free UK BIM Framework Part 3 implementation guidance; no normative full part",
+      "scope_summary": "Series-level information management for built assets. For this SHM architecture, Part 3 is the core: operational-phase information requirements, foreseeable trigger events, links to enterprise systems, establishment and maintenance of the asset information model, appointment/mobilization/production/acceptance and aggregation. Part 1 supplies concepts; Part 4 controls exchanges; Part 5 covers security-minded management.",
+      "open_overlap_or_alternative": "Existing C1 SensorThings and C4 IFC describe APIs/data and asset-model exchange structures, but not organizational information requirements, responsibilities, appointments, common data environment workflow or lifecycle governance. Free UK BIM Framework guidance substantially explains implementation but is not the normative text and includes UK-specific practice.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Each ISO part is separately licensed. Parts 1-3 are in revision, creating obsolescence risk; verify project stages immediately before purchase. UK guidance is not text-identical and contains UK-specific practice.",
+      "recommendation": "HIGH, SELECTIVE — buy Part 3 first; add Part 1 if terminology/governance must be normative, Part 4 if exchange acceptance gates are in scope, and Part 5 only for a formal security workstream. Do not buy the entire series by default; check imminent revisions before ordering Parts 1-3.",
+      "rationale": "Part 3 directly fits operating and maintaining a city bridge portfolio and connecting SHM trigger events to an asset information model. Selective purchase avoids high series cost and obsolescence risk while the free guidance supports pre-purchase design."
+    },
+    {
+      "id": "D3",
+      "exact_edition_year": "EN 16991:2018 / national adoptions such as EVS-EN 16991:2018 and SIST EN 16991:2018",
+      "edition_status": "EN 16991:2018 and 2018 national adoptions remain the located edition.",
+      "official_page": "https://www.evs.ee/en/evs-en-16991-2018",
+      "authoritative_and_preview_urls": [
+        "https://standards.iteh.ai/catalog/standards/sist/411bfd1f-8acf-4cc3-b781-f8ffc084defe/sist-en-16991-2018",
+        "https://cdn.standards.iteh.ai/samples/59454/db0c797cd80c44dba7dabf5013e3e99a/SIST-EN-16991-2018.pdf",
+        "https://shop.standards.ie/en-ie/standards/en-16991-2018-343204_saig_cen_cen_785721/",
+        "https://www.evs.ee/en/evs-en-16991-2018"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/D3/SIST-EN-16991-2018_iTeh_preview.pdf",
+          "bytes": 1538357,
+          "sha256": "9dbfd37e759ce30f92e319aedfed837f66ce0c352e0e768dc660be39bb2d159d",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "lawful national-adoption preview with contents/selected clauses and commercial catalog metadata",
+      "scope_summary": "Risk-Based Inspection Framework and guidance for risk-based inspection and maintenance, primarily for hydrocarbon and chemical process industries, power generation and other industries where RBI applies; supports operation/maintenance optimization and asset integrity management.",
+      "open_overlap_or_alternative": "Conceptually overlaps D1 value-of-information and risk-based resource allocation, but is not bridge-specific. Its industrial equipment degradation mechanisms, risk matrices and inspection programme structure may inform governance. The claimed bridge concrete deterioration curve should instead be sourced directly from the Italian bridge guideline already held (A1/A3), because EN 16991's stated scope does not establish it as a bridge deterioration reference.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Complete EN/national-adoption text requires purchase. It is process-industry oriented and not a bridge code; no text-identical open adoption was found.",
+      "recommendation": "LOW — do not buy for the present bridge SHM architecture unless the deliverable explicitly requires a generic auditable RBI method beyond available bridge guidance.",
+      "rationale": "The lawful preview confirms strong process-industry orientation. A low-cost national adoption could be considered later, but bridge-specific Italian guidelines, JT/T 1037 and domestic inspection/design rules have higher direct applicability."
+    },
+    {
+      "id": "D4",
+      "exact_edition_year": "Wiley, first published 2012 (commonly cited 2013); print ISBN 9781119994336, online ISBN 9781118443118",
+      "edition_status": "Wiley first edition, first published 2012; frequently catalogued/cited as 2013. ISBNs disambiguate the edition.",
+      "official_page": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118443118",
+      "authoritative_and_preview_urls": [
+        "https://books.google.com/books/about/Structural_Health_Monitoring.html?id=2w_sp6lersUC",
+        "https://search.worldcat.org/search?q=isbn%3A9781119994336",
+        "https://royalsocietypublishing.org/doi/10.1098/rsta.2006.1938",
+        "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118443118"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official Wiley metadata + Google Books preview/TOC + WorldCat discovery; no local copyrighted book copy",
+      "scope_summary": "Comprehensive SHM textbook casting the problem as machine learning/statistical pattern recognition. Chapters cover operational evaluation, sensing/data acquisition, case studies, probability/statistics, damage-sensitive features, nonlinear-response features, supervised/unsupervised learning, data normalization, SHM axioms and damage prognosis.",
+      "open_overlap_or_alternative": "Substantial overlap with existing D2 Los Alamos review, B1 SAMCO, E2 system-identification material and newer open review literature. The book adds coherent pedagogy, worked examples and deep treatment of feature engineering, novelty detection and normalization rather than unique architecture requirements.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full e-book/print text requires purchase or authenticated institutional/library loan. Google Books availability varies by region/session.",
+      "recommendation": "MEDIUM-LOW — seek institutional e-book/WorldCat loan or buy used; buy new only for the analytics work package or team training, not as an architecture prerequisite.",
+      "rationale": "High technical quality and durable reference value, especially for environmental/operational variability and novelty detection, but the current task is system architecture and governance. Wiley's official page and Google Books expose a detailed TOC sufficient to confirm fit before purchase."
+    },
+    {
+      "id": "F10",
+      "exact_edition_year": "TCVN 11823:2017, 14-part first edition; check amendments/replacement status per part before purchase",
+      "edition_status": "TCVN 11823:2017, 14-part first edition; recheck each part for amendments/replacements.",
+      "official_page": "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-1%3A2017",
+      "authoritative_and_preview_urls": [
+        "https://tcvn.gov.vn/quyet-dinh-cong-bo-tieu-chuan-quoc-gia-4/13/03/2018/",
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-3%3A2017",
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-4%3A2017",
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-14%3A2017",
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-1%3A2017"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official VSQI per-part catalog records and national promulgation notice; no complete local normative parts",
+      "scope_summary": "Vietnam's LRFD-based highway bridge design series. For SHM threshold architecture the most relevant parts are 1 (general/safety concepts), 3 (loads, load factors and combinations), 4 (structural modelling, analysis and evaluation), then structure/material-specific parts for monitored bridges, and 14 for joints and bearings.",
+      "open_overlap_or_alternative": "AASHTO LRFD and open bridge manuals can explain engineering concepts, but they cannot replace Vietnamese adopted coefficients, terminology and controlling design criteria. Buying all 14 parts would create large irrelevant volume; thresholds must also distinguish design limit states from operational/statistical warning levels.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Official PDFs are sold per part. Procurement should be selective; exact applicability depends on bridge structural systems and as-built design basis.",
+      "recommendation": "HIGHEST DOMESTIC, SELECTIVE — immediately buy Parts 1, 3 and 4; buy Parts 5/6/9/10/11/12/14 only according to the Hanoi bridge typologies and monitored components. Do not buy the full set blindly.",
+      "rationale": "Normative Vietnamese basis is essential when converting measured response into engineering checks and documenting Layer-1 thresholds. Part 4 explicitly covers analysis and evaluation, while Part 3 supplies actions/combinations. The final threshold methodology should cross-reference as-built design dossiers and inspection standards rather than copy design limits directly into alarms."
+    },
+    {
+      "id": "F11",
+      "exact_edition_year": "TCVN 9360:2012 (61 pages); TCVN 9399:2012 (45 pages)",
+      "edition_status": "TCVN 9360:2012 and TCVN 9399:2012.",
+      "official_page": "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+9360%3A2012",
+      "authoritative_and_preview_urls": [
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+9399%3A2012",
+        "https://www.mtu.edu.vn/Resources/Docs/Khoa%20-%20Bo%20mon/Khoa%20Xay%20dung/Tai%20lieu%20tham%20khao/TCVN/Khao%20sat/TCVN9399_2012.pdf",
+        "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+9360%3A2012"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official VSQI metadata, scope and price pages; an institutional-host PDF lead exists for TCVN 9399 but redistribution authority is unclear, so it was not collected",
+      "scope_summary": "TCVN 9360 specifies geometrical-levelling procedures and technical indicators for settlement monitoring of civil and industrial buildings. TCVN 9399 specifies technical requirements, methods, observation procedures and data processing for horizontal displacement of buildings/civil structures under lateral pressure or on potentially moving/sliding ground.",
+      "open_overlap_or_alternative": "Both are geodetic monitoring standards, not bridge SHM standards. They can inform survey control, benchmarks, accuracy classes, campaigns and processing for piers/abutments or adjacent ground, but their stated scopes do not directly establish bridge-specific continuous sensor architecture or structural warning limits.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Official PDFs require purchase. The non-issuer university-host copy was not treated as an authorized artifact. Both standards are building/civil geodetic monitoring standards, so bridge applicability must be justified.",
+      "recommendation": "MEDIUM, CONDITIONAL — buy TCVN 9399 if horizontal pier/abutment or slope displacement is in scope; buy TCVN 9360 only if precise settlement levelling is a required subsystem. Otherwise cite catalog scope and rely on bridge/geodetic project specifications.",
+      "rationale": "The combined official PDF price shown by VSQI is 1,272,000 VNĐ (732,000 + 540,000), so selective acquisition is warranted. Their value is strongest for acceptance procedures and periodic control surveys, not the core streaming SHM data model. Confirm applicability to bridges with the survey lead before procurement."
+    },
+    {
+      "id": "G10",
+      "exact_edition_year": "ISO 15686-5:2017, Edition 2 (confirmed current in 2024)",
+      "edition_status": "ISO 15686-5:2017 Edition 2, confirmed current in 2024; 2008 edition withdrawn.",
+      "official_page": [
+        "https://www.iso.org/standard/61148.html",
+        "https://www.iso.org/obp/ui/#iso:std:iso:15686:-5:ed-2:v1:en"
+      ],
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui/#iso:std:iso:15686:-5:ed-2:v1:en",
+        "https://www.nist.gov/publications/life-cycle-costing-manual-federal-energy-management-program-0",
+        "https://nvlpubs.nist.gov/nistpubs/hb/2020/NIST.HB.135-2020.pdf",
+        "https://www.iso.org/standard/61148.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/G10/NIST_HB_135-2020_Life_Cycle_Costing.pdf",
+          "bytes": 6143537,
+          "sha256": "ae1fb4b13938c726c72c027e72e712fefe3b3654730c9d131af5f022f30a02ea",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "ISO official abstract/read-only sample + full open NIST life-cycle-costing manual",
+      "scope_summary": "Requirements and guidance for life-cycle-cost analysis of new or existing buildings and constructed assets, covering acquisition through operation and disposal, comparisons among alternatives, and portfolio/project/component analysis.",
+      "open_overlap_or_alternative": "NIST Handbook 135 is a lawful, detailed LCC-method equivalent for pre-purchase evaluation, but is tailored to US federal energy/water investment rules. It demonstrates discounting, study periods, cash-flow treatment and sensitivity analysis; it does not replace ISO terminology, scope conventions or an ISO-conformant citation.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "NIST is not text-identical and is tailored to US federal energy/water investment rules; ISO purchase is needed for ISO terminology/conformance citation.",
+      "recommendation": "PURCHASE LATER — buy ISO 15686-5:2017 only when the team begins the investment/economic justification and OPEX/CAPEX comparison work package. Do not buy the withdrawn 2008 edition.",
+      "rationale": "Useful for proving whole-life economic value of SHM, but it does not determine the SHM system architecture itself. The official ISO abstract and lawful NIST handbook are sufficient to validate relevance before purchase. Architecture, asset-management and security standards should be acquired first."
+    },
+    {
+      "id": "H1",
+      "exact_edition_year": "ISO/IEC/IEEE 42010:2022, Edition 2",
+      "edition_status": "ISO/IEC/IEEE 42010:2022 Edition 2; 2011 edition superseded.",
+      "official_page": [
+        "https://www.iso.org/standard/74393.html",
+        "https://standards.ieee.org/ieee/42010/6846/",
+        "https://www.iso.org/obp/ui/en/#!iso:std:74393:en"
+      ],
+      "authoritative_and_preview_urls": [
+        "http://www.iso-architecture.org/42010/cm/",
+        "http://www.iso-architecture.org/42010/templates/",
+        "https://www.omgwiki.org/MBSE/lib/exe/fetch.php?media=mbse:incose_mbse_iw_2022:iw2022_iso_iec_ieee_42010_update.pdf",
+        "https://www.iso.org/standard/74393.html",
+        "https://standards.ieee.org/ieee/42010/6846/"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official ISO/IEEE metadata/read-only sample + author-maintained conceptual model/templates + edition-change presentation lead; full normative requirements closed",
+      "scope_summary": "Requirements for architecture descriptions, architecture description frameworks and languages, viewpoints, model kinds, correspondences and conformance. Edition 2 broadens the subject from a system of interest to an entity of interest and supports enterprise as well as software/system architecture.",
+      "open_overlap_or_alternative": "The standard authors' conceptual-model site and starter templates lawfully expose the method's core structure. The INCOSE edition-update deck explains Edition 2 changes. These are strong implementation aids but not a substitute for the normative shall-requirements and conformance clauses.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Full 2022 normative text requires ISO/IEEE/national-body purchase or institutional IEEE subscription. INCOSE update PDF timed out during collection.",
+      "recommendation": "PURCHASE FIRST — acquire ISO/IEC/IEEE 42010:2022 before freezing the Hanoi bridge SHM architecture-description method. Prefer whichever authorized channel (ISO, IEEE, national standards body, institutional IEEE subscription) gives licensed team access. Do not purchase the superseded 2011 edition unless needed solely for historical comparison.",
+      "rationale": "This is the most direct standard for the requested architecture deliverable: stakeholders, concerns, viewpoints/views, model kinds, decisions/rationale and cross-view correspondences. It governs how every technical, operations, data, cybersecurity and asset-management view is organized."
+    },
+    {
+      "id": "H2",
+      "exact_edition_year": "ISO 55000:2024 Edition 2; ISO 55001:2024 Edition 2; ISO 55002:2018 Edition 2 (revision underway; English/French unaffected by 2020 Spanish correction)",
+      "edition_status": "ISO 55000:2024 Ed.2; ISO 55001:2024 Ed.2; ISO 55002:2018 Ed.2 (revision underway).",
+      "official_page": [
+        "https://www.iso.org/standard/83053.html",
+        "https://www.iso.org/standard/83054.html",
+        "https://www.iso.org/standard/70402.html",
+        "https://committee.iso.org/home/tc251"
+      ],
+      "authoritative_and_preview_urls": [
+        "https://theiam.org/knowledge-library/asset-management-an-anatomy/",
+        "https://theiam.org/media/5615/iam-anatomy-version-4-final.pdf",
+        "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/brochures/aunz-grp-cross-govn-built-nst-iso55001-mp-pp1309iso55001assetmanagementguidebook-0726.pdf",
+        "https://www.iso.org/standard/83053.html",
+        "https://www.iso.org/standard/83054.html",
+        "https://www.iso.org/standard/70402.html",
+        "https://committee.iso.org/home/tc251"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/H2/IAM_Asset_Management_Anatomy_v4.pdf",
+          "bytes": 6404275,
+          "sha256": "025589d071db962c2f3544fb43086646c92442e7e0286c0e21e5127564eb4dfa",
+          "mime": "application/pdf"
+        },
+        {
+          "path": "files/PREVIEW/H2/BSI_ISO55001_2024_Guidebook.pdf",
+          "bytes": 375119,
+          "sha256": "14813c02c31d4e824bf8dfc0c9f8ff7369fada8cddb978de8b33954fab926d21",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "official series metadata + full open IAM Anatomy v4 + BSI 2024 guidebook; no complete normative standards",
+      "scope_summary": "55000 supplies concepts, benefits, principles and vocabulary; 55001 states auditable requirements for the asset management system; 55002 gives extensive implementation guidance for applying 55001, especially to physical assets.",
+      "open_overlap_or_alternative": "IAM Anatomy v4 is a lawful conceptual and implementation-oriented equivalent that maps the broader discipline, including strategy, lifecycle delivery, asset information, performance/health monitoring and risk/review. The BSI guidebook identifies important 2024 changes such as explicit decision criteria, SAMP consolidation, data/information, knowledge, lifecycle operations and predictive action. Neither reproduces all normative requirements or clause-by-clause application guidance.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "ISO 55000/55001/55002 are separately licensed. ISO 55002:2018 is at revision risk; defer unless immediate clause-level implementation guidance is needed.",
+      "recommendation": "PURCHASE EARLY: ISO 55001:2024 first. Add ISO 55000:2024 if the project needs exact controlled vocabulary in specifications and governance documents. DEFER ISO 55002:2018 because its revision is underway; use IAM Anatomy and the BSI guidebook meanwhile, then buy the replacement edition when published or buy 2018 only if implementation work cannot wait.",
+      "rationale": "For SHM architecture, 55001 most directly defines governance, objectives, decision criteria, risk/opportunity, asset data/knowledge, lifecycle planning, performance evaluation and continual improvement that the monitoring platform must support. 55000 is short and foundational but less implementation-critical; 55002 is useful yet at edition-transition risk. Consider ISO 55013:2024 separately later if asset-data governance becomes a major workstream; it was not in the original H2 list."
+    },
+    {
+      "id": "H3",
+      "exact_edition_year": "ISO/IEC 25010:2023, Edition 2; quality-in-use content separated into ISO/IEC 25019:2023",
+      "edition_status": "ISO/IEC 25010:2023 Edition 2; quality-in-use moved to ISO/IEC 25019:2023.",
+      "official_page": [
+        "https://www.iso.org/standard/78176.html",
+        "https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:en",
+        "https://www.iso.org/standard/78177.html"
+      ],
+      "authoritative_and_preview_urls": [
+        "https://www.sonarsource.com/resources/library/iso-iec-25010-explained/",
+        "https://quality.arc42.org/articles/iso-25010-update-2023",
+        "https://www.iso.org/standard/78176.html",
+        "https://www.iso.org/standard/78177.html"
+      ],
+      "lawful_artifacts": [],
+      "content_assessability": "official metadata/read-only sample + lawful explanatory pages enumerating the 2023 model changes; no full normative definitions",
+      "scope_summary": "Defines the product-quality model for ICT and software products. The 2023 edition has nine top-level characteristics and adds safety, while renaming usability to interaction capability and portability to flexibility. Quality-in-use is no longer in 25010 and is addressed by 25019:2023.",
+      "open_overlap_or_alternative": "Lawful explanatory pages expose the 2023 characteristic structure and edition changes, sufficient to draft a preliminary non-functional-requirements taxonomy. They do not provide the authoritative definitions and complete subcharacteristic relationships needed for contractual acceptance criteria.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Complete characteristic/subcharacteristic definitions require purchase. Many open summaries still describe superseded 2011 content; ensure procurement selects 2023.",
+      "recommendation": "PURCHASE SECOND WAVE — acquire ISO/IEC 25010:2023 when converting architecture quality concerns into measurable software/platform requirements and acceptance criteria. Do not buy 25010:2011. Buy ISO/IEC 25019:2023 only if the project will formally specify operator/decision-maker quality-in-use outcomes; it is not automatically part of H3.",
+      "rationale": "Important for platform quality attributes, but downstream of selecting stakeholders, concerns and views under 42010. For a safety-relevant SHM platform, the added 2023 safety characteristic makes the current edition materially preferable to the commonly cited 2011 model."
+    },
+    {
+      "id": "H4",
+      "exact_edition_year": "ISO/IEC 27001:2022 plus Amd 1:2024; ISO/IEC 27002:2022",
+      "edition_status": "ISO/IEC 27001:2022 Edition 3 + Amd 1:2024; ISO/IEC 27002:2022 Edition 3.",
+      "official_page": [
+        "https://www.iso.org/standard/27001",
+        "https://www.iso.org/standard/75652.html",
+        "https://www.iso.org/obp/ui/#iso:std:iso-iec:27002:en"
+      ],
+      "authoritative_and_preview_urls": [
+        "https://www.nist.gov/cyberframework",
+        "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+        "https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2023/volume-12/a-guide-to-the-updated-iso-iec-27002-2022-standard-part-2",
+        "https://www.iso.org/standard/27001",
+        "https://www.iso.org/standard/88435.html",
+        "https://webstore.iec.ch/en/publication/92579",
+        "https://www.iso.org/standard/75652.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/H4/NIST_CSF_2.0.pdf",
+          "bytes": 1518858,
+          "sha256": "3c31f46fee98cac0c4323453e5109291a213b4de7fef8c058af9bf67f717433c",
+          "mime": "application/pdf"
+        }
+      ],
+      "content_assessability": "official metadata/read-only samples + full open NIST CSF 2.0 alternative framework; Amendment 1 is officially free through IEC/SIS",
+      "scope_summary": "27001 specifies requirements for an information security management system and is certifiable; its Annex A contains the control reference set. 27002 provides detailed implementation guidance for information-security controls and is not itself certifiable. The 2022 control set is organized into organizational, people, physical and technological themes.",
+      "open_overlap_or_alternative": "NIST CSF 2.0 is a lawful open framework for Govern, Identify, Protect, Detect, Respond and Recover outcomes and is excellent for architecture threat/control coverage. It is not a clause-equivalent replacement for ISO/IEC 27001 certification requirements or the detailed implementation guidance of 27002.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "27001 base requirements and 27002 implementation guidance remain licensed; NIST CSF is not clause-equivalent or text-identical. Buy 27001 with the free 2024 amendment.",
+      "recommendation": "PURCHASE EARLY: ISO/IEC 27002:2022 first for SHM architecture and procurement control design. Purchase ISO/IEC 27001:2022 together with Amd 1:2024 when establishing the owner/operator ISMS boundary, governance or certification/conformity requirements. If only one can be bought during architecture design, choose 27002; if an ISMS/certification scope is already mandated, buy both as a matched pair.",
+      "rationale": "The immediate architecture need is actionable guidance for sensor/edge/network/cloud access control, logging/monitoring, supplier security, physical protection, incident handling and continuity, which 27002 provides. 27001 is essential for organizational governance but less detailed for solution architecture. NIST CSF 2.0 can structure the initial profile and gap assessment before purchase."
+    },
+    {
+      "id": "H5",
+      "exact_edition_year": "ISO 2394:2015 Edition 4 (under systematic review after 2025 review cycle); ISO 13824:2020 Edition 2 (under review)",
+      "edition_status": "ISO 2394:2015 Ed.4 (review cycle); ISO 13824:2020 Ed.2, 2025 review closed with revision-status check still required.",
+      "official_page": [
+        "https://www.iso.org/standard/58036.html",
+        "https://www.iso.org/standard/71005.html"
+      ],
+      "authoritative_and_preview_urls": [
+        "https://www.iso.org/obp/ui#iso:std:iso:2394:ed-3:en",
+        "https://www.iso.org/obp/ui/en/#!iso:std:71005:en",
+        "https://github.com/JCSS-PMC",
+        "https://pdxscholar.library.pdx.edu/cengin_fac/742",
+        "https://www.iso.org/standard/58036.html",
+        "https://www.iso.org/standard/71005.html"
+      ],
+      "lawful_artifacts": [
+        {
+          "path": "files/PREVIEW/H5/Life_Safety_Reliability_Existing_Structures_2025_extracted.md",
+          "bytes": 50509,
+          "sha256": "76543e7b4d63cff4189a057184c231447a0fcefaeda736966e4dbbda2c5d5215",
+          "mime": "text/plain"
+        }
+      ],
+      "content_assessability": "ISO official detailed abstracts/read-only samples + open JCSS probabilistic model code + open 2025 review; no complete ISO normative texts",
+      "scope_summary": "ISO 2394 gives a risk- and reliability-informed foundation for structural design and assessment and target reliability. ISO 13824 gives the general risk-assessment framework and procedure for hazard identification, risk estimation/evaluation/treatment, monitoring, emergency preparation and decisions on design, assessment, maintenance and decommissioning, including existing and exceptional structures.",
+      "open_overlap_or_alternative": "The open JCSS Probabilistic Model Code and the open-access 2025 life-safety review provide substantial technical background on probabilistic models, reliability targets and distinctions between new and existing structures. They are valuable equivalents for method development but do not replace the ISO normative frameworks or exact terminology.",
+      "text_identical_open_alternative": {
+        "available": false
+      },
+      "purchase_or_access_blocker": "Both full ISO standards require purchase and are in/after systematic review. ANSI ISO 2394 preview returned HTTP 403. Check whether revision projects have started before ordering.",
+      "recommendation": "PURCHASE ISO 13824:2020 BEFORE ISO 2394:2015 for the SHM system-architecture phase. Buy ISO 2394:2015 later when defining/calibrating quantitative reliability indices, thresholds and structural assessment models. Because both are presently in review, check ISO status immediately before ordering and avoid superseded ISO 13824:2009 or ISO 2394:1998.",
+      "rationale": "13824 maps more directly to an operational SHM risk loop: hazards, monitored evidence, risk estimation, evaluation, treatment, maintenance decisions and emergency response. 2394 becomes indispensable when the project moves from qualitative/risk architecture to quantitative reliability verification and target-setting."
+    }
+  ]
+}

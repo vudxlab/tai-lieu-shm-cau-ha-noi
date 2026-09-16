@@ -1,0 +1,18 @@
+{
+  "id": "H3",
+  "edition/year": "ISO/IEC 25010:2023, Edition 2; quality-in-use content separated into ISO/IEC 25019:2023",
+  "official": [
+    "https://www.iso.org/standard/78176.html",
+    "https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:en",
+    "https://www.iso.org/standard/78177.html"
+  ],
+  "preview/library URLs": [
+    "https://www.sonarsource.com/resources/library/iso-iec-25010-explained/",
+    "https://quality.arc42.org/articles/iso-25010-update-2023"
+  ],
+  "files": [],
+  "scope": "Defines the product-quality model for ICT and software products. The 2023 edition has nine top-level characteristics and adds safety, while renaming usability to interaction capability and portability to flexibility. Quality-in-use is no longer in 25010 and is addressed by 25019:2023.",
+  "overlap": "Lawful explanatory pages expose the 2023 characteristic structure and edition changes, sufficient to draft a preliminary non-functional-requirements taxonomy. They do not provide the authoritative definitions and complete subcharacteristic relationships needed for contractual acceptance criteria.",
+  "recommendation": "PURCHASE SECOND WAVE — acquire ISO/IEC 25010:2023 when converting architecture quality concerns into measurable software/platform requirements and acceptance criteria. Do not buy 25010:2011. Buy ISO/IEC 25019:2023 only if the project will formally specify operator/decision-maker quality-in-use outcomes; it is not automatically part of H3.",
+  "rationale": "Important for platform quality attributes, but downstream of selecting stakeholders, concerns and views under 42010. For a safety-relevant SHM platform, the added 2023 safety characteristic makes the current edition materially preferable to the commonly cited 2011 model."
+}

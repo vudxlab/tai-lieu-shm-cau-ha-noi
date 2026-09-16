@@ -1,0 +1,44 @@
+[
+  {
+    "id": "B7",
+    "file": "files/PREVIEW/B7/ISO_14963_2003_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+14963-2003.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B8",
+    "file": "files/PREVIEW/B8/ISO_16587_2004_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+16587-2004.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B9",
+    "file": "files/PREVIEW/B9/ISO_18649_2004_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+18649-2004.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "B10",
+    "file": "files/PREVIEW/B10/ISO_13822_2010_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+13822-2010.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "H5",
+    "file": "files/PREVIEW/H5/ISO_2394_2015_ANSI_preview.pdf",
+    "url": "https://webstore.ansi.org/preview-pages/ISO/preview_ISO+2394-2015.pdf",
+    "ok": false,
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "id": "H1",
+    "file": "files/PREVIEW/H1/ISO_42010_2022_update_INCOSE.pdf",
+    "url": "https://www.omgwiki.org/MBSE/lib/exe/fetch.php?media=mbse:incose_mbse_iw_2022:iw2022_iso_iec_ieee_42010_update.pdf",
+    "ok": false,
+    "error": "TimeoutError('The read operation timed out')"
+  }
+]

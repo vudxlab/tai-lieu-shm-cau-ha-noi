@@ -1,0 +1,21 @@
+{
+  "id": "C5",
+  "edition/year": "ISO 19650-1:2018; -2:2018; -3:2020; -4:2022; -5:2020; -6:2025. Parts 1-3 are under revision as of 2026.",
+  "official page": "https://www.iso.org/standard/75109.html",
+  "preview/library URLs": [
+    "https://www.iso.org/standard/68078.html",
+    "https://www.iso.org/standard/68080.html",
+    "https://www.iso.org/standard/75109.html",
+    "https://www.iso.org/standard/78246.html",
+    "https://www.iso.org/standard/74206.html",
+    "https://www.iso.org/standard/82705.html",
+    "https://www.ukbimframework.org/wp-content/uploads/2021/02/Guidance-Part-3_Operational-phase-of-the-asset-life-cycle_Edition-2.pdf"
+  ],
+  "files": [
+    "files/PREVIEW/C5/UK-BIM-Framework_ISO19650-3_Guidance_Ed2.pdf"
+  ],
+  "scope summary": "Series-level information management for built assets. For this SHM architecture, Part 3 is the core: operational-phase information requirements, foreseeable trigger events, links to enterprise systems, establishment and maintenance of the asset information model, appointment/mobilization/production/acceptance and aggregation. Part 1 supplies concepts; Part 4 controls exchanges; Part 5 covers security-minded management.",
+  "overlap": "Existing C1 SensorThings and C4 IFC describe APIs/data and asset-model exchange structures, but not organizational information requirements, responsibilities, appointments, common data environment workflow or lifecycle governance. Free UK BIM Framework guidance substantially explains implementation but is not the normative text and includes UK-specific practice.",
+  "recommendation": "HIGH, SELECTIVE — buy Part 3 first; add Part 1 if terminology/governance must be normative, Part 4 if exchange acceptance gates are in scope, and Part 5 only for a formal security workstream. Do not buy the entire series by default; check imminent revisions before ordering Parts 1-3.",
+  "rationale": "Part 3 directly fits operating and maintaining a city bridge portfolio and connecting SHM trigger events to an asset information model. Selective purchase avoids high series cost and obsolescence risk while the free guidance supports pre-purchase design."
+}

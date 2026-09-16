@@ -1,0 +1,16 @@
+{
+  "id": "F10",
+  "edition/year": "TCVN 11823:2017, 14-part first edition; check amendments/replacement status per part before purchase",
+  "official page": "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-1%3A2017",
+  "preview/library URLs": [
+    "https://tcvn.gov.vn/quyet-dinh-cong-bo-tieu-chuan-quoc-gia-4/13/03/2018/",
+    "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-3%3A2017",
+    "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-4%3A2017",
+    "https://tieuchuan.vsqi.gov.vn/tieuchuan/view?sohieu=TCVN+11823-14%3A2017"
+  ],
+  "files": [],
+  "scope summary": "Vietnam's LRFD-based highway bridge design series. For SHM threshold architecture the most relevant parts are 1 (general/safety concepts), 3 (loads, load factors and combinations), 4 (structural modelling, analysis and evaluation), then structure/material-specific parts for monitored bridges, and 14 for joints and bearings.",
+  "overlap": "AASHTO LRFD and open bridge manuals can explain engineering concepts, but they cannot replace Vietnamese adopted coefficients, terminology and controlling design criteria. Buying all 14 parts would create large irrelevant volume; thresholds must also distinguish design limit states from operational/statistical warning levels.",
+  "recommendation": "HIGHEST DOMESTIC, SELECTIVE — immediately buy Parts 1, 3 and 4; buy Parts 5/6/9/10/11/12/14 only according to the Hanoi bridge typologies and monitored components. Do not buy the full set blindly.",
+  "rationale": "Normative Vietnamese basis is essential when converting measured response into engineering checks and documenting Layer-1 thresholds. Part 4 explicitly covers analysis and evaluation, while Part 3 supplies actions/combinations. The final threshold methodology should cross-reference as-built design dossiers and inspection standards rather than copy design limits directly into alarms."
+}

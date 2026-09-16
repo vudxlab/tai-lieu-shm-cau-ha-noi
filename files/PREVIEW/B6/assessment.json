@@ -1,0 +1,14 @@
+{
+  "id": "B6",
+  "exact_edition_year": "UNI/TR 11634:2026 (replaces/supersedes 2016 edition for new procurement)",
+  "official_page": "https://store.uni.com/uni-tr-11634-2026",
+  "preview_library_urls": [
+    "https://www.uni.com/214-43/",
+    "https://www.mdpi.com/2412-3811/7/1/5"
+  ],
+  "lawful_downloaded_files": [],
+  "scope_summary": "Design, installation, operation, maintenance and use of structural monitoring systems, including uncertainty and decision use.",
+  "overlap": "SAMCO, Sustainable Bridges, ISHMS and TRB E-C246 cover much methodology, but UNI/TR is directly referenced by the Italian bridge guideline and consolidates an operational monitoring lifecycle.",
+  "recommendation": "buy_now",
+  "rationale": "Highest-priority technical monitoring purchase. Purchase the 2026 edition, not 2016, because the project uses Linee Guida Ponti and must make the monitoring architecture auditable."
+}

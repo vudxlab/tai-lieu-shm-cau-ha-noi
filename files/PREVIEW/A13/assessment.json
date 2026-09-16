@@ -1,0 +1,15 @@
+{
+  "id": "A13",
+  "exact_edition_year": "JTG/T H21-2011, effective 2011-09-01",
+  "official_page": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3312369.html",
+  "preview_library_urls": [
+    "https://www.codeofchina.com/standard/JTGT-H21-2011.html"
+  ],
+  "lawful_downloaded_files": [
+    "files/PREVIEW/A13/MOT_China_JTGTH21_2011_announcement.html"
+  ],
+  "scope_summary": "Chinese technical-condition evaluation and scoring for highway bridges.",
+  "overlap": "Italian Linee Guida, SNBI/BIRM and Vietnamese inspection rules already provide classification inputs; JTG/T H21 is valuable mainly as a regional scoring comparator.",
+  "recommendation": "buy_later",
+  "rationale": "Buy only if the task will formally compare or adapt a Chinese-style bridge condition score. Otherwise cite secondary studies and use open/current frameworks."
+}

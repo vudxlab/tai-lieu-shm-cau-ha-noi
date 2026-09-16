@@ -1,0 +1,21 @@
+{
+  "id": "H5",
+  "edition/year": "ISO 2394:2015 Edition 4 (under systematic review after 2025 review cycle); ISO 13824:2020 Edition 2 (under review)",
+  "official": [
+    "https://www.iso.org/standard/58036.html",
+    "https://www.iso.org/standard/71005.html"
+  ],
+  "preview/library URLs": [
+    "https://www.iso.org/obp/ui#iso:std:iso:2394:ed-3:en",
+    "https://www.iso.org/obp/ui/en/#!iso:std:71005:en",
+    "https://github.com/JCSS-PMC",
+    "https://pdxscholar.library.pdx.edu/cengin_fac/742"
+  ],
+  "files": [
+    "files/PREVIEW/H5/Life_Safety_Reliability_Existing_Structures_2025_extracted.md"
+  ],
+  "scope": "ISO 2394 gives a risk- and reliability-informed foundation for structural design and assessment and target reliability. ISO 13824 gives the general risk-assessment framework and procedure for hazard identification, risk estimation/evaluation/treatment, monitoring, emergency preparation and decisions on design, assessment, maintenance and decommissioning, including existing and exceptional structures.",
+  "overlap": "The open JCSS Probabilistic Model Code and the open-access 2025 life-safety review provide substantial technical background on probabilistic models, reliability targets and distinctions between new and existing structures. They are valuable equivalents for method development but do not replace the ISO normative frameworks or exact terminology.",
+  "recommendation": "PURCHASE ISO 13824:2020 BEFORE ISO 2394:2015 for the SHM system-architecture phase. Buy ISO 2394:2015 later when defining/calibrating quantitative reliability indices, thresholds and structural assessment models. Because both are presently in review, check ISO status immediately before ordering and avoid superseded ISO 13824:2009 or ISO 2394:1998.",
+  "rationale": "13824 maps more directly to an operational SHM risk loop: hazards, monitored evidence, risk estimation, evaluation, treatment, maintenance decisions and emergency response. 2394 becomes indispensable when the project moves from qualitative/risk architecture to quantitative reliability verification and target-setting."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "B11",
+  "edition/year": "ISO 17359:2018, edition 3 (confirmed 2023)",
+  "official page": "https://www.iso.org/standard/71194.html",
+  "preview/library URLs": [
+    "https://www.iso.org/obp/ui/#iso:std:iso:17359:ed-3:v1:en",
+    "https://cdn.standards.iteh.ai/samples/71194/c551f4c170654bb19be2ee017d144969/ISO-17359-2018.pdf"
+  ],
+  "files": [
+    "files/PREVIEW/B11/ISO-17359-2018_iTeh_preview.pdf"
+  ],
+  "scope summary": "29-page, machine-focused parent guideline for setting up a condition-monitoring programme: procedure overview, cost-benefit justification, asset audit/criticality, reliability and failure modes, measurement selection, data acquisition/analysis, alarm criteria, diagnosis/prognosis, reporting and programme review.",
+  "overlap": "Strong conceptual overlap with existing B1/B2 SAMCO SHM guidance and D1/D2 value/statistical-pattern frameworks. Its scope is all machines, not civil structures or bridges; bridge-specific sensor placement, environmental normalization and structural limit states are outside scope.",
+  "recommendation": "LOW — defer purchase; use lawful preview and existing SHM sources unless the architecture must formally claim ISO 17359 conformance or cover rotating/mechanical bridge assets.",
+  "rationale": "Useful as a generic closed-loop condition-monitoring lifecycle, but marginal incremental value for a Hanoi bridge SHM architecture. The preview exposes enough structure to decide that B13, C5 Part 3, and selected TCVN 11823 parts are more project-specific."
+}

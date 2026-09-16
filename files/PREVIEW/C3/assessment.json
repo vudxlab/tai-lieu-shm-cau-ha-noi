@@ -1,0 +1,16 @@
+{
+  "id": "C3",
+  "edition/year": "ISO 19156:2023, edition 2 / OGC Abstract Specification Topic 20, version 3.0 (20-082r4)",
+  "official page": "https://www.iso.org/standard/82463.html",
+  "preview/library URLs": [
+    "https://www.ogc.org/standards/om/",
+    "https://docs.ogc.org/as/20-082r4/20-082r4.html"
+  ],
+  "files": [
+    "files/PREVIEW/C3/OGC-20-082r4_OMS_3.0.html"
+  ],
+  "scope summary": "Conceptual schema for observations, observed properties, procedures, observers, results, features of interest, deployments, collections, sampling and sample relationships, with modular requirements and conformance classes.",
+  "overlap": "The openly published OGC 20-082r4 states that it was created from ISO 19156:2023(E) after ISO final edits and has identical content except copyright, title pages and double branding. It therefore provides the substantive model needed for mapping the existing OGC SensorThings API (C1).",
+  "recommendation": "DO NOT BUY for technical content — adopt the royalty-free OGC identical text; purchase ISO only if procurement, audit or contract rules require an ISO-branded controlled copy.",
+  "rationale": "A lawful, authoritative, text-identical equivalent is available and already downloaded. Funds should be redirected to sources without an open equivalent. Note that ISO 19156:2011 is superseded; architecture work should target the 2023/OMS 3.0 model while documenting SensorThings 1.1 profile differences."
+}

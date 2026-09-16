@@ -1,0 +1,23 @@
+{
+  "id": "H2",
+  "edition/year": "ISO 55000:2024 Edition 2; ISO 55001:2024 Edition 2; ISO 55002:2018 Edition 2 (revision underway; English/French unaffected by 2020 Spanish correction)",
+  "official": [
+    "https://www.iso.org/standard/83053.html",
+    "https://www.iso.org/standard/83054.html",
+    "https://www.iso.org/standard/70402.html",
+    "https://committee.iso.org/home/tc251"
+  ],
+  "preview/library URLs": [
+    "https://theiam.org/knowledge-library/asset-management-an-anatomy/",
+    "https://theiam.org/media/5615/iam-anatomy-version-4-final.pdf",
+    "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/brochures/aunz-grp-cross-govn-built-nst-iso55001-mp-pp1309iso55001assetmanagementguidebook-0726.pdf"
+  ],
+  "files": [
+    "files/PREVIEW/H2/IAM_Asset_Management_Anatomy_v4.pdf",
+    "files/PREVIEW/H2/BSI_ISO55001_2024_Guidebook.pdf"
+  ],
+  "scope": "55000 supplies concepts, benefits, principles and vocabulary; 55001 states auditable requirements for the asset management system; 55002 gives extensive implementation guidance for applying 55001, especially to physical assets.",
+  "overlap": "IAM Anatomy v4 is a lawful conceptual and implementation-oriented equivalent that maps the broader discipline, including strategy, lifecycle delivery, asset information, performance/health monitoring and risk/review. The BSI guidebook identifies important 2024 changes such as explicit decision criteria, SAMP consolidation, data/information, knowledge, lifecycle operations and predictive action. Neither reproduces all normative requirements or clause-by-clause application guidance.",
+  "recommendation": "PURCHASE EARLY: ISO 55001:2024 first. Add ISO 55000:2024 if the project needs exact controlled vocabulary in specifications and governance documents. DEFER ISO 55002:2018 because its revision is underway; use IAM Anatomy and the BSI guidebook meanwhile, then buy the replacement edition when published or buy 2018 only if implementation work cannot wait.",
+  "rationale": "For SHM architecture, 55001 most directly defines governance, objectives, decision criteria, risk/opportunity, asset data/knowledge, lifecycle planning, performance evaluation and continual improvement that the monitoring platform must support. 55000 is short and foundational but less implementation-critical; 55002 is useful yet at edition-transition risk. Consider ISO 55013:2024 separately later if asset-data governance becomes a major workstream; it was not in the original H2 list."
+}

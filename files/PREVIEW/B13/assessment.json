@@ -1,0 +1,19 @@
+{
+  "id": "B13",
+  "edition/year": "JT/T 1037-2022 (replaces JT/T 1037-2016); GB 50982-2014 (effective 2015)",
+  "official page": "https://hbba.sacinfo.org.cn/stdDetail/da1a6a1a042f85281ead19fae2a37c587dc2a23593f3d83e1da0c582c894fb2a",
+  "preview/library URLs": [
+    "https://snamr.shaanxi.gov.cn/sy/ztzl/sbgxhxfpyjhx/bzcx/gjbz/202410/t20241030_3439066.html",
+    "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2018.00010/full",
+    "https://xxgk.mot.gov.cn/2020/jigou/glj/202410/P020241010534784302209.pdf",
+    "https://ebook.chinabuilding.com.cn/zbooklib/book/detail/show?SiteID=1&bookID=149868"
+  ],
+  "files": [
+    "files/PREVIEW/B13/GB-50982-2014_official_Shaanxi.pdf",
+    "files/PREVIEW/B13/JTT-1037-2018_Frontiers_article.pdf"
+  ],
+  "scope summary": "JT/T 1037-2022 directly covers highway-bridge structural monitoring system design, implementation, acceptance, operations/maintenance, monitoring content and point layout, methods, systems, data management and monitoring applications. GB 50982-2014 covers monitoring and warning for buildings and bridge structures; clause 3.1.8 requiring warning values is mandatory. A 2024 Ministry of Transport big-data application guide lawfully reveals operational use of JT/T 1037-2022 Table 9 multi-level exceedance thresholds.",
+  "overlap": "Overlaps B1/B3/B4 on general SHM process, but adds bridge-specific prescriptive system lifecycle, point layout, data governance, applications and thresholding. GB 50982 is broader and partly overlaps JT/T 1037; JT/T 1037-2022 is the primary acquisition target. The downloaded 2018 article explains the superseded 2016 code, so it is orientation evidence rather than a substitute for the 2022 text.",
+  "recommendation": "HIGHEST — buy JT/T 1037-2022 English translation first; use the official lawful GB 50982-2014 copy before deciding whether any paid translation is needed.",
+  "rationale": "This is the closest foreign normative analogue to the requested bridge SHM architecture and spans system architecture, lifecycle governance, data and warning/application layers. Climate similarity is secondary; direct highway-bridge specificity and current operational guidance make it uniquely valuable. Confirm translation completeness and that annexes/tables are included before purchase."
+}
